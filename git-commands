@@ -1,0 +1,14 @@
+Git Commands
+==================
+git init
+git clone url
+git clone -b bn url
+git push alias name master(bn)
+git pull alias name bn
+git fetch origin master
+git config --global user.name ""
+git config --global user.email ""
+git config --global --list
+git remote add alias name url
+git remote -v
+git remote remove alias name
