@@ -9,4 +9,5 @@ git push origin --all
 git push origin --tags
 git push origin --delete bn
 git branch -a
+git checkout -b bn
 
